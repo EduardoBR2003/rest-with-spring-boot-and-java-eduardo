@@ -1,6 +1,6 @@
 package br.com.eduardo.unitestes.mapper.mocks;
 
-import br.com.eduardo.data.dto.PersonDTO;
+import br.com.eduardo.data.dto.v1.PersonDTO;
 import br.com.eduardo.model.Person;
 
 import java.util.ArrayList;
